@@ -1,0 +1,28 @@
+name: Maxymilian
+favicon: null
+layout_spectrum: 0.7797694185283035
+typography_spectrum: 0.16849996987730265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.04503279272466898
+  lightness: 0.9135889452882111
+  saturation: 0.7555483127944171
+  rhythmicContrast: 0.6184373975265771
+purpose: []
